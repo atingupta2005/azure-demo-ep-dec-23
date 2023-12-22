@@ -4,6 +4,8 @@
 
 ### Azure Portal URL:
  - <a href="https://portal.azure.com/" target="_blank">Azure Portal</a>
+ - Click [here](https://portal.azure.com/){:target="_blank"}  
+to visit Azure Portal
 
 ### User Name:
  - u1@atingupta.xyz
