@@ -3,7 +3,7 @@
 ## Lab Details
 
 ### Azure Portal URL:
- - https://portal.azure.com/
+ - <a href="https://portal.azure.com/" target="_blank">Azure Portal</a>
 
 ### User Name:
  - u1@atingupta.xyz
