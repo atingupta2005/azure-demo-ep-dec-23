@@ -3,15 +3,17 @@
 ## Lab Details
 
 ### Azure Portal URL:
- - <a href="https://portal.azure.com/" target="_blank">Azure Portal</a>
- - Click [here](https://portal.azure.com/){:target="_blank"}  
-to visit Azure Portal
+ - https://portal.azure.com/
 
 ### User Name:
- - u1@atingupta.xyz
+```
+u1@atingupta.xyz
+```
 
 ### Password:
- - Azure default password
+```
+Azure default password
+```
 
 ## VM RDP Details
 
@@ -19,11 +21,14 @@ to visit Azure Portal
  - 
 
 ### User Name:
- - u1@atingupta.xyz
+```
+u1@atingupta.xyz
+```
 
 ### Password:
- - Azure default password
-
+```
+Azure default password
+```
 
 ### GitHub Repo for Web App
  - https://github.com/atingupta2005/devops-asp-dot-net-core-app-starter
